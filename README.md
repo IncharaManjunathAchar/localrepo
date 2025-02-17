@@ -1,3 +1,3 @@
 # login-form-with-database-connection
-you can watch the full tutorial on my youtube channel 
+you can refer the full tutorial on youtube channel 
 https://www.youtube.com/@francis_tech
